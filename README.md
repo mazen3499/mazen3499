@@ -8,7 +8,7 @@
   <p align="left">
     <a href="mailto:mazenwalid870@gmail.com">
       <img src="https://github.com/user-attachments/assets/60a8c72c-6b99-45d1-a1cb-777364f4917c" height="43"/></a> &nbsp;
-    <a href="www.linkedin.com/in/mazen-walid">
+    <a href="https:\\www.linkedin.com/in/mazen-walid">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
     <a href="https://wa.me/201115413807">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/></a> &nbsp;
